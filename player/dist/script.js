@@ -30,14 +30,14 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Pain's Theme - Girei"
+      "Dawn",
       "Me & You",
       "Electro Boy",
       "Home",
       "Proxy (Original Mix)"
     ],
     trackNames = [
-      "Pain's Theme - Girei"
+      "Skylike - Dawn",
       "Alex Skrindo - Me & You",
       "Kaaze - Electro Boy",
       "Jordan Schor - Home",
@@ -45,8 +45,8 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3"
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/2.mp3",,
+      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/2.mp3",
+      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
